@@ -37,12 +37,20 @@ Thank you for your interest in contributing to this project, however, I am curre
 
 ## [Installation](#table-of-contents)
 
-Visit URL
+* `git clone git@github.com:jessica-calderon/bookzurk.git`
+* `npm i`
+* `npm run develop`
+
+OR 
+
+Visit live deployment at:
+
+https://bookzurk.herokuapp.com/ 
 
 ## [Application Preview](#table-of-contents)
 
 Click the image to see the live demo.
-<a href='https://www.' alt='preview'><img src='./assets/img/preview.png'></a>
+<a href='https://bookzurk.herokuapp.com/' alt='preview'><img src='./assets/img/preview.png'></a>
 
 ## [Questions](#table-of-contents)
 
